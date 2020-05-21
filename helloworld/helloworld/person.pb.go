@@ -4,7 +4,7 @@
 // 	protoc        v3.6.1
 // source: helloworld/person.proto
 
-package main
+package helloworld
 
 import (
 	context "context"
