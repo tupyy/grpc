@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	pb "github.com/tupyy/grpc/helloworld"
+	pb "github.com/tupyy/grpc/helloworld/helloworld"
 
 	"google.golang.org/grpc"
 )
