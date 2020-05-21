@@ -1,6 +1,6 @@
 syntax = "proto3";
 package tutorial;
-option go_package = "github.com/tupyy/grpc/helloword";
+option go_package = "github.com/tupyy/grpc/helloworld/helloworld";
 
 message Person {
     string name = 1;

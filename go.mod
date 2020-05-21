@@ -1,4 +1,4 @@
-module example/helloworld
+module github.com/grpc/
 
 go 1.13
 
